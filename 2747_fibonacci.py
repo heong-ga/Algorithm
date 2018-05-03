@@ -1,5 +1,6 @@
 memo = [0] * 50
 
+
 def fib(n) :
     if n <= 1:
         return n
